@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "lifesupport",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Mcuntitled.aternos.me",
+    "ip": "PrMc.play.hosting",
     "port": 29195,
-    "version": "1.21.11"
+    "version": "18410"
   },
   "position": {
     "enabled": true,
